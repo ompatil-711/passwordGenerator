@@ -4,7 +4,7 @@ A modern, responsive password generator built with HTML, CSS, and JavaScript tha
 
 ## Screenshot
 
-![Password Generator Screenshot]()
+![Password Generator Screenshot](Screenshot 2025-09-08 191812.png)
 
 
 ## Features
